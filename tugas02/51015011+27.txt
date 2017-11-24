@@ -1,0 +1,7 @@
++10 tugas selesai
++2 perbedaan h1 judul dengan h1 judul lagu
++2 file lagu lain + link
++4x2= 8 selektor ke 7 dst
++5 untuk penggunaan div
+
+total= 27

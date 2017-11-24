@@ -1,0 +1,83 @@
+body
+  {
+    background-color: #5ede67;
+
+  }
+h1
+{
+    text-shadow: 2px 2px 3px red;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: auto;
+
+}
+.isi
+{text-align: center;
+  padding: 2px;
+  height: 800px;
+  width: 250px;
+  float: left;
+  background-color: red;
+  text-decoration: underline;}
+
+
+a:link, a:visited, a:active
+{
+  width: 150px;
+  margin: 2px;
+  background-color: #059305;
+  color: white;
+  padding : 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.konten
+{font-size: 20px;
+margin-bottom: 5px;
+height: 500px;
+width: 650px;
+float:left;
+margin-left: 250px;
+background-color: white;}
+
+a:hover
+{
+  font-family:fantasy;
+  width: 150px;
+  margin: 2px;
+  background-color: #c60909;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+}
+gambar
+{
+  image-orientation: center;
+}
+p
+{
+  text-align: center;
+  font-family: georgia, "Times New Roman",Times,serif;
+}
+.p1{
+  height: 50px;
+  width: 1180px;
+  border: 1px solid white;
+  margin: 7px 1px 1px 7px;
+  margin-left: 100px;
+  color : #fffff;
+  text-align: center;
+  border-radius: 10px 10px 10x 10px;
+}
+.bawah{
+  background-color: blue;
+  margin-top: 5px;
+  clear: both;
+  padding: 10px;
+  height: 50px;
+  width: 1000px;
+  margin-left: 150px;}
