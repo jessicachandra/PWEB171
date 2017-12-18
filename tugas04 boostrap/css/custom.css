@@ -1,0 +1,20 @@
+body {
+  min-height: 80rem; /* Can be removed; just added for demo purposes */
+  font-family:'Merienda';
+}
+
+.jumbotron {
+  background-color: #fff;
+    font-family: 'Indie Flower', cursive;
+}
+
+.navbar {
+  background-color: : #ffff;
+}
+
+.card-text {
+  font-family: 'Pacifico', cursive;
+}
+ btn btn-primary{
+   background: #FF69B4;
+ }

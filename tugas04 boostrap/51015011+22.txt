@@ -1,0 +1,6 @@
++10= SELESAI
++5=tampilan tempalte
++2x5=10 untuk selektor
+-5 =bukan lagu
++2 copyright
+=+22
